@@ -1,0 +1,36 @@
+{
+    "name":"SmashWeather",
+    "short_name":"SmashWeather",
+    "start_url":"/index.html",
+    "display":"standalone",
+    "background_color":"#6495ED",
+    "theme_color":"#6495ED",
+    "orientation":"portrait-primary",
+    "description":"An app that gives weather details",
+    "icons":[
+        {
+            "src":"/icons/blucloud 76x76.png", 
+            "type":"image/png",
+            "sizes":"96x96"
+        },
+        {
+            "src":"/icons/bluecloud 72x72.png", 
+            "type":"image/png",
+            "sizes":"72x72"
+        },
+        {
+            "src":"/icons/bluecloud 152x152.png", 
+            "type":"image/png",
+            "sizes":"152x152"
+        },
+        {
+            "src":"/icons/bluecloud 512x512.png", 
+            "type":"image/png",
+            "sizes":"512x512"
+        }
+        
+
+    ]
+    
+    
+}
